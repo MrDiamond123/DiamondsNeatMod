@@ -1,6 +1,7 @@
 {
   "item.diamondsneat.player_pearl" : "Player Pearl",
   "item.diamondsneat.player_pearl.tooltip" : "Allows you to teleport to a random player",
-  "item.diamondsneat.player_pearl.success" : "Congrats, %s you passed the test!",
+  "item.diamondsneat.player_pearl.success" : "Teleported to %s",
+  "item.diamondsneat.player_pearl.fail" : "There is no one you can teleport to!",
   "item.diamondsneat.diamond_shards" : "Diamond Shards"
 }

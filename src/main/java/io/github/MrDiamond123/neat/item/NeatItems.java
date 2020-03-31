@@ -41,6 +41,6 @@ public class NeatItems {
 
 static {
         DIAMOND_SHARDS = register("diamond_shards", new Item(new Item.Settings().group(ItemGroup.MATERIALS)));
-        PLAYER_PEARL = register("player_pearl", new PlayerPearlItem(new Item.Settings().group(ItemGroup.MISC)));
+        PLAYER_PEARL = register("player_pearl", new PlayerPearlItem(new Item.Settings().group(ItemGroup.MISC).maxCount(8)));
     }
 }

@@ -3,5 +3,7 @@
   "item.diamondsneat.player_pearl.tooltip" : "Allows you to teleport to a random player",
   "item.diamondsneat.player_pearl.success" : "Teleported to %s",
   "item.diamondsneat.player_pearl.fail" : "There is no one you can teleport to!",
-  "item.diamondsneat.diamond_shards" : "Diamond Shards"
+  "item.diamondsneat.diamond_shards" : "Diamond Shards",
+
+  "enchantment.diamondsneat.explosive_touch": "Explosive Touch"
 }

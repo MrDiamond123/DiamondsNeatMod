@@ -10,7 +10,6 @@ import net.minecraft.util.registry.Registry;
 public class NeatItems {
     public static final Item DIAMOND_SHARDS;
     public static final Item PLAYER_PEARL;
-
     private static Item register(Block block) {
         return register(new BlockItem(block, new Item.Settings()));
     }
